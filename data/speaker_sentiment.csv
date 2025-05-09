@@ -1,0 +1,48 @@
+speaker,vader_neg,vader_neu,vader_pos,vader_compound
+Rosa Parks,0.0,0.637,0.363,0.8442
+A.P.J. Abdul Kalam,0.0,0.479,0.521,0.7717
+Nelson Mandela,0.0,0.812,0.188,0.6833
+Subhas Chandra Bose,0.0,0.625,0.375,0.6369
+Atal Bihari Vajpayee,0.0,0.688,0.312,0.6114
+Martin Luther King Jr.,0.0,0.78,0.22,0.5859
+Theresa May,0.0,0.748,0.252,0.5719
+Lee Kuan Yew,0.0,0.793,0.207,0.5267
+Imran Khan,0.0,0.595,0.405,0.5267
+Narayan Murthy,0.0,0.7,0.3,0.4588
+Periyar E.V. Ramasamy,0.0,0.797,0.203,0.4215
+Xi Jinping,0.0,0.792,0.208,0.2732
+Benazir Bhutto,0.321,0.283,0.396,0.2023
+Emmanuel Macron,0.0,0.914,0.086,0.1779
+Chandrashekhar Azad,0.194,0.597,0.209,0.0772
+Manmohan Singh,0.0,1.0,0.0,0.0
+Margaret Thatcher,0.237,0.526,0.237,0.0
+Narendra Modi,0.0,1.0,0.0,0.0
+Ronald Reagan,0.0,1.0,0.0,0.0
+Rajiv Gandhi,0.0,1.0,0.0,0.0
+Volodymyr Zelenskyy,0.283,0.489,0.228,0.0
+Malala Yousafzai,0.0,1.0,0.0,0.0
+Sardar Patel,0.0,1.0,0.0,0.0
+Theodore Roosevelt,0.0,1.0,0.0,0.0
+Vladimir Putin,0.0,1.0,0.0,0.0
+Malcolm X,0.0,1.0,0.0,0.0
+Lal Bahadur Shastri,0.0,1.0,0.0,0.0
+Angela Merkel,0.0,1.0,0.0,0.0
+Albert Einstein,0.0,1.0,0.0,0.0
+Justin Trudeau,0.0,1.0,0.0,0.0
+John F. Kennedy,0.0,1.0,0.0,0.0
+Barack Obama,0.0,1.0,0.0,0.0
+Jawaharlal Nehru,0.0,1.0,0.0,0.0
+Donald Trump,0.0,1.0,0.0,0.0
+Ernesto Che Guevara,0.0,1.0,0.0,0.0
+George W. Bush,0.0,1.0,0.0,0.0
+Abraham Lincoln,0.0,1.0,0.0,0.0
+Jacinda Ardern,0.104,0.896,0.0,-0.1027
+Greta Thunberg,0.215,0.604,0.181,-0.128
+B.R. Ambedkar,0.247,0.753,0.0,-0.3182
+Indira Gandhi,0.245,0.755,0.0,-0.3818
+Joe Biden,0.281,0.719,0.0,-0.5994
+Zulfikar Ali Bhutto,0.438,0.562,0.0,-0.5994
+Winston Churchill,0.24585714285714286,0.7541428571428571,0.0,-0.6369
+Mahatma Gandhi,0.312,0.5565384615384615,0.13146153846153846,-0.6705
+Fidel Castro,0.383,0.617,0.0,-0.7351
+Franklin D. Roosevelt,0.444,0.556,0.0,-0.7506

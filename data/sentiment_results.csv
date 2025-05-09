@@ -1,0 +1,111 @@
+speaker,date,year,decade,vader_neg,vader_neu,vader_pos,vader_compound,vader_sentiment
+Abraham Lincoln,1863-11-19,1863,1860,0.0,1.0,0.0,0.0,neutral
+Abraham Lincoln,1863-11-19,1863,1860,0.0,1.0,0.0,0.0,neutral
+Abraham Lincoln,1863-11-19,1863,1860,0.0,1.0,0.0,0.0,neutral
+Abraham Lincoln,1863-11-19,1863,1860,0.0,1.0,0.0,0.0,neutral
+Abraham Lincoln,1863-11-19,1863,1860,0.0,1.0,0.0,0.0,neutral
+Abraham Lincoln,1863-11-19,1863,1860,0.0,1.0,0.0,0.0,neutral
+Abraham Lincoln,1863-11-19,1863,1860,0.0,1.0,0.0,0.0,neutral
+Abraham Lincoln,1863-11-19,1863,1860,0.0,1.0,0.0,0.0,neutral
+Abraham Lincoln,1863-11-19,1863,1860,0.0,1.0,0.0,0.0,neutral
+Abraham Lincoln,1863-11-19,1863,1860,0.0,1.0,0.0,0.0,neutral
+Abraham Lincoln,1863-11-19,1863,1860,0.0,1.0,0.0,0.0,neutral
+Abraham Lincoln,1863-11-19,1863,1860,0.0,1.0,0.0,0.0,neutral
+Abraham Lincoln,1863-11-19,1863,1860,0.0,1.0,0.0,0.0,neutral
+Abraham Lincoln,1863-11-19,1863,1860,0.0,1.0,0.0,0.0,neutral
+Theodore Roosevelt,1901-03-04,1901,1900,0.0,1.0,0.0,0.0,neutral
+Theodore Roosevelt,1901-03-04,1901,1900,0.0,1.0,0.0,0.0,neutral
+Theodore Roosevelt,1901-03-04,1901,1900,0.0,1.0,0.0,0.0,neutral
+Theodore Roosevelt,1901-03-04,1901,1900,0.0,1.0,0.0,0.0,neutral
+Theodore Roosevelt,1901-03-04,1901,1900,0.0,1.0,0.0,0.0,neutral
+Theodore Roosevelt,1901-03-04,1901,1900,0.0,1.0,0.0,0.0,neutral
+Theodore Roosevelt,1901-03-04,1901,1900,0.0,1.0,0.0,0.0,neutral
+Theodore Roosevelt,1901-03-04,1901,1900,0.0,1.0,0.0,0.0,neutral
+Theodore Roosevelt,1901-03-04,1901,1900,0.0,1.0,0.0,0.0,neutral
+Theodore Roosevelt,1901-03-04,1901,1900,0.0,1.0,0.0,0.0,neutral
+Theodore Roosevelt,1901-03-04,1901,1900,0.0,1.0,0.0,0.0,neutral
+Theodore Roosevelt,1901-03-04,1901,1900,0.0,1.0,0.0,0.0,neutral
+Theodore Roosevelt,1901-03-04,1901,1900,0.0,1.0,0.0,0.0,neutral
+Theodore Roosevelt,1901-03-04,1901,1900,0.0,1.0,0.0,0.0,neutral
+Periyar E.V. Ramasamy,1925-06-10,1925,1920,0.0,0.797,0.203,0.4215,positive
+Chandrashekhar Azad,1931-02-27,1931,1930,0.194,0.597,0.209,0.0772,positive
+Franklin D. Roosevelt,1933-03-04,1933,1930,0.444,0.556,0.0,-0.7506,negative
+Winston Churchill,1940-06-04,1940,1940,0.245,0.755,0.0,-0.6369,negative
+Winston Churchill,1940-06-04,1940,1940,0.245,0.755,0.0,-0.6369,negative
+Winston Churchill,1940-06-04,1940,1940,0.245,0.755,0.0,-0.6369,negative
+Winston Churchill,1940-06-04,1940,1940,0.245,0.755,0.0,-0.6369,negative
+Winston Churchill,1940-06-04,1940,1940,0.245,0.755,0.0,-0.6369,negative
+Winston Churchill,1940-06-04,1940,1940,0.245,0.755,0.0,-0.6369,negative
+Winston Churchill,1940-06-04,1940,1940,0.245,0.755,0.0,-0.6369,negative
+Winston Churchill,1940-06-04,1940,1940,0.245,0.755,0.0,-0.6369,negative
+Winston Churchill,1940-06-04,1940,1940,0.245,0.755,0.0,-0.6369,negative
+Winston Churchill,1940-06-04,1940,1940,0.245,0.755,0.0,-0.6369,negative
+Winston Churchill,1940-06-04,1940,1940,0.245,0.755,0.0,-0.6369,negative
+Winston Churchill,1940-06-04,1940,1940,0.245,0.755,0.0,-0.6369,negative
+Winston Churchill,1940-06-04,1940,1940,0.245,0.755,0.0,-0.6369,negative
+Winston Churchill,1940-06-04,1940,1940,0.257,0.743,0.0,-0.6369,negative
+Mahatma Gandhi,1942-08-08,1942,1940,0.311,0.558,0.131,-0.6705,negative
+Mahatma Gandhi,1942-08-08,1942,1940,0.324,0.539,0.137,-0.6705,negative
+Mahatma Gandhi,1942-08-08,1942,1940,0.311,0.558,0.131,-0.6705,negative
+Mahatma Gandhi,1942-08-08,1942,1940,0.311,0.558,0.131,-0.6705,negative
+Mahatma Gandhi,1942-08-08,1942,1940,0.311,0.558,0.131,-0.6705,negative
+Mahatma Gandhi,1942-08-08,1942,1940,0.311,0.558,0.131,-0.6705,negative
+Mahatma Gandhi,1942-08-08,1942,1940,0.311,0.558,0.131,-0.6705,negative
+Mahatma Gandhi,1942-08-08,1942,1940,0.311,0.558,0.131,-0.6705,negative
+Mahatma Gandhi,1942-08-08,1942,1940,0.311,0.558,0.131,-0.6705,negative
+Mahatma Gandhi,1942-08-08,1942,1940,0.311,0.558,0.131,-0.6705,negative
+Mahatma Gandhi,1942-08-08,1942,1940,0.311,0.558,0.131,-0.6705,negative
+Mahatma Gandhi,1942-08-08,1942,1940,0.311,0.558,0.131,-0.6705,negative
+Mahatma Gandhi,1942-08-08,1942,1940,0.311,0.558,0.131,-0.6705,negative
+Subhas Chandra Bose,1943-07-06,1943,1940,0.0,0.625,0.375,0.6369,positive
+Albert Einstein,1945-07-22,1945,1940,0.0,1.0,0.0,0.0,neutral
+Jawaharlal Nehru,1947-08-15,1947,1940,0.0,1.0,0.0,0.0,neutral
+Jawaharlal Nehru,1947-08-15,1947,1940,0.0,1.0,0.0,0.0,neutral
+Jawaharlal Nehru,1947-08-15,1947,1940,0.0,1.0,0.0,0.0,neutral
+Jawaharlal Nehru,1947-08-15,1947,1940,0.0,1.0,0.0,0.0,neutral
+Jawaharlal Nehru,1947-08-15,1947,1940,0.0,1.0,0.0,0.0,neutral
+Jawaharlal Nehru,1947-08-15,1947,1940,0.0,1.0,0.0,0.0,neutral
+Jawaharlal Nehru,1947-08-15,1947,1940,0.0,1.0,0.0,0.0,neutral
+Jawaharlal Nehru,1947-08-15,1947,1940,0.0,1.0,0.0,0.0,neutral
+Jawaharlal Nehru,1947-08-15,1947,1940,0.0,1.0,0.0,0.0,neutral
+Jawaharlal Nehru,1947-08-15,1947,1940,0.0,1.0,0.0,0.0,neutral
+Jawaharlal Nehru,1947-08-15,1947,1940,0.0,1.0,0.0,0.0,neutral
+Jawaharlal Nehru,1947-08-15,1947,1940,0.0,1.0,0.0,0.0,neutral
+Jawaharlal Nehru,1947-08-15,1947,1940,0.0,1.0,0.0,0.0,neutral
+Sardar Patel,1949-01-26,1949,1940,0.0,1.0,0.0,0.0,neutral
+B.R. Ambedkar,1950-01-26,1950,1950,0.247,0.753,0.0,-0.3182,negative
+Rosa Parks,1955-12-01,1955,1950,0.0,0.637,0.363,0.8442,positive
+John F. Kennedy,1961-01-20,1961,1960,0.0,1.0,0.0,0.0,neutral
+Fidel Castro,1961-12-02,1961,1960,0.383,0.617,0.0,-0.7351,negative
+Martin Luther King Jr.,1963-08-28,1963,1960,0.0,0.78,0.22,0.5859,positive
+Malcolm X,1964-04-03,1964,1960,0.0,1.0,0.0,0.0,neutral
+Lee Kuan Yew,1965-08-09,1965,1960,0.0,0.793,0.207,0.5267,positive
+Lal Bahadur Shastri,1965-10-02,1965,1960,0.0,1.0,0.0,0.0,neutral
+Ernesto Che Guevara,1965-12-11,1965,1960,0.0,1.0,0.0,0.0,neutral
+Indira Gandhi,1971-12-03,1971,1970,0.245,0.755,0.0,-0.3818,negative
+Zulfikar Ali Bhutto,1971-12-04,1971,1970,0.438,0.562,0.0,-0.5994,negative
+Margaret Thatcher,1979-05-04,1979,1970,0.237,0.526,0.237,0.0,neutral
+Rajiv Gandhi,1985-01-28,1985,1980,0.0,1.0,0.0,0.0,neutral
+Ronald Reagan,1987-06-12,1987,1980,0.0,1.0,0.0,0.0,neutral
+Benazir Bhutto,1988-12-02,1988,1980,0.321,0.283,0.396,0.2023,positive
+Nelson Mandela,1994-05-10,1994,1990,0.0,0.812,0.188,0.6833,positive
+Atal Bihari Vajpayee,1998-05-12,1998,1990,0.0,0.688,0.312,0.6114,positive
+George W. Bush,2001-09-14,2001,2000,0.0,1.0,0.0,0.0,neutral
+A.P.J. Abdul Kalam,2003-05-26,2003,2000,0.0,0.479,0.521,0.7717,positive
+Narayan Murthy,2005-01-12,2005,2000,0.0,0.7,0.3,0.4588,positive
+Manmohan Singh,2005-07-18,2005,2000,0.0,1.0,0.0,0.0,neutral
+Barack Obama,2008-11-04,2008,2000,0.0,1.0,0.0,0.0,neutral
+Malala Yousafzai,2013-07-12,2013,2010,0.0,1.0,0.0,0.0,neutral
+Vladimir Putin,2014-03-18,2014,2010,0.0,1.0,0.0,0.0,neutral
+Narendra Modi,2014-05-26,2014,2010,0.0,1.0,0.0,0.0,neutral
+Angela Merkel,2015-09-07,2015,2010,0.0,1.0,0.0,0.0,neutral
+Justin Trudeau,2015-10-19,2015,2010,0.0,1.0,0.0,0.0,neutral
+Theresa May,2016-07-13,2016,2010,0.0,0.748,0.252,0.5719,positive
+Donald Trump,2017-01-20,2017,2010,0.0,1.0,0.0,0.0,neutral
+Emmanuel Macron,2017-05-07,2017,2010,0.0,0.914,0.086,0.1779,positive
+Imran Khan,2018-08-18,2018,2010,0.0,0.595,0.405,0.5267,positive
+Greta Thunberg,2019-09-23,2019,2010,0.215,0.604,0.181,-0.128,negative
+Jacinda Ardern,2020-03-23,2020,2020,0.104,0.896,0.0,-0.1027,negative
+Joe Biden,2021-01-20,2021,2020,0.281,0.719,0.0,-0.5994,negative
+Volodymyr Zelenskyy,2022-02-24,2022,2020,0.283,0.489,0.228,0.0,neutral
+Xi Jinping,2022-10-16,2022,2020,0.0,0.792,0.208,0.2732,positive
