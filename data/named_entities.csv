@@ -1,0 +1,85 @@
+text,type,start,end
+Four,CARDINAL,0,4
+seven years ago,DATE,15,30
+Four,CARDINAL,0,4
+seven years ago,DATE,15,30
+Four,CARDINAL,0,4
+seven years ago,DATE,15,30
+Four,CARDINAL,0,4
+seven years ago,DATE,15,30
+Four,CARDINAL,0,4
+seven years ago,DATE,15,30
+Four,CARDINAL,0,4
+seven years ago,DATE,15,30
+Four,CARDINAL,0,4
+seven years ago,DATE,15,30
+Four,CARDINAL,0,4
+seven years ago,DATE,15,30
+Four,CARDINAL,0,4
+seven years ago,DATE,15,30
+Four,CARDINAL,0,4
+seven years ago,DATE,15,30
+Four,CARDINAL,0,4
+seven years ago,DATE,15,30
+Four,CARDINAL,0,4
+seven years ago,DATE,15,30
+Four,CARDINAL,0,4
+seven years ago,DATE,15,30
+Four,CARDINAL,0,4
+seven years ago,DATE,15,30
+British,NORP,30,37
+India,GPE,48,53
+India,GPE,48,53
+India,GPE,48,53
+India,GPE,48,53
+India,GPE,48,53
+India,GPE,48,53
+India,GPE,48,53
+India,GPE,48,53
+India,GPE,48,53
+India,GPE,48,53
+India,GPE,48,53
+India,GPE,48,53
+India,GPE,48,53
+Long years ago,DATE,0,14
+Long years ago,DATE,0,14
+Long years ago,DATE,0,14
+Long years ago,DATE,0,14
+Long years ago,DATE,0,14
+Long years ago,DATE,0,14
+Long years ago,DATE,0,14
+Long years ago,DATE,0,14
+Long years ago,DATE,0,14
+Long years ago,DATE,0,14
+Long years ago,DATE,0,14
+Long years ago,DATE,0,14
+Long years ago,DATE,0,14
+India,GPE,13,18
+one day,DATE,20,27
+today,DATE,47,52
+Singapore,GPE,46,55
+Jai Jawan Jai Kisan,PERSON,0,19
+India,GPE,0,5
+Bangladesh,GPE,16,26
+thousand-year,DATE,15,28
+India,GPE,0,5
+Gorbachev,PERSON,4,13
+one,CARDINAL,106,109
+India,GPE,0,5
+Indo-US,ORG,50,57
+America,GPE,19,26
+One,CARDINAL,0,3
+one,CARDINAL,11,14
+one,CARDINAL,24,27
+one,CARDINAL,37,40
+Crimea,ORG,0,6
+Russia,GPE,46,52
+Canada,GPE,0,6
+Brexit,ORG,0,6
+Brexit,GPE,13,19
+this day,DATE,5,13
+America,GPE,45,52
+first,ORDINAL,53,58
+Europe,LOC,26,32
+Pakistan,GPE,0,8
+Chinese,NORP,43,50
